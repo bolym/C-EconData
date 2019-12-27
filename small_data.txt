@@ -1,0 +1,8 @@
+2
+Oregon 5.2 5.7 51088 3
+Benton 4.1 4.3 54089
+Linn 6.3 6.9 44358
+Multnomah 4.9 5.0 53519
+California 5.4 6.2 61927 2
+Alameda 4.7 4.7 76996
+San_Francisco1 4.2 3.6 8371

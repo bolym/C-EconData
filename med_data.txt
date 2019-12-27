@@ -1,0 +1,20 @@
+3
+Oregon 5.2 5.7 51088 5
+Baker 5.8 6.9 38966
+Benton 4.1 4.3 54089
+Clackamas 4.6 5.2 65555
+Clatsop 4.7 5.6 45132
+Columbia 5.7 7.2 57517
+Pennsylvania 4.4 5.1 53224 7
+Adams 3.3 4.1 60179
+Allegheny 4.1 4.8 52385
+Armstrong 5.0 6.4 44326
+Beaver 4.5 5.9 51041
+Bedford 5.6 5.9 46890
+Berks 4.2 4.8 55936
+Blair 4.2 5.0 43343
+California 5.4 6.2 61927 58
+Alameda 4.7 4.7 76996
+Alpine 7.9 7.9 53003
+Amador 5.8 6.6 54610
+Butte 6.7 7.2 42302
